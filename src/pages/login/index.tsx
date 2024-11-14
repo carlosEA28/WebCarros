@@ -68,6 +68,8 @@ export function Login() {
             Acessar
           </button>
         </form>
+
+        <Link to={"/register"}>Não poussue uma conta? Criar Conta</Link>
       </div>
     </Contaier>
   );
