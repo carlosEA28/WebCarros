@@ -20,7 +20,7 @@ const router = createBrowserRouter([
         element: <CarDetail />,
       },
       {
-        path: "/dashborad",
+        path: "/dashboard",
         element: <Dashboard />,
       },
       {
